@@ -1,4 +1,4 @@
 # hello-world
 First repository on GitHub,
-Dan Wismer, GIS Anlayst at fRI Research,
+Dan Wismer, GIS Analyst at fRI Research,
 MGIS
